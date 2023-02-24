@@ -1,5 +1,5 @@
 # FileConverter
-A web application for conversion among many supported file formats, created using [ConvertAPI](https://www.convertapi.com/)
+A web application for conversion among many supported file formats, created using [CloudConvert API](https://cloudconvert.com/)
 
 ![Home-page-sample](https://user-images.githubusercontent.com/78582744/221009807-629c29e3-4f1f-4ef5-9e92-df4b3211be8f.png)
 
