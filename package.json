@@ -5,5 +5,23 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "fileconverter",
+  "description": "A web application for conversion among many supported file formats, created using [CloudConvert API](https://cloudconvert.com/)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saksham-koul/FileConverter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saksham-koul/FileConverter/issues"
+  },
+  "homepage": "https://github.com/saksham-koul/FileConverter#readme"
 }

@@ -1,4 +1,4 @@
-const secretKey = 'Your API Key here'
+const secretKey = 'Your ConvertAPI Key here'
 
 let convertApi = ConvertApi.auth({secret: secretKey})
 
